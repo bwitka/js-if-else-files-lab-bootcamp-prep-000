@@ -1,6 +1,7 @@
 var name = "Susan";
 var height = 70;
  
+ /*
  if (name === "Susan") {
     console.log("The name is correct")
  } else {
@@ -12,6 +13,8 @@ var height = 70;
  } else {
     console.log("The height is supposed to be 70")
  }
+ */
+ 
 // Don't worry about this
 module.exports = { name, height
 }
