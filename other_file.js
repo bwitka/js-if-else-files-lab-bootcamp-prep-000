@@ -1,3 +1,3 @@
-var name = "Beau"
+var index = require("./index.js")
 
 console.log(name)
